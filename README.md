@@ -1,6 +1,6 @@
 # SQL Server Exercises
 
-> SQL Server (T-SQL) exercises: schema design, constraints, queries, stored procedures and triggers.
+> SQL exercises: schema design, constraints, queries, stored procedures and triggers.
 
 ## Contents
 
